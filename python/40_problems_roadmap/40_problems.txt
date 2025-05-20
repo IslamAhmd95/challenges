@@ -1,0 +1,99 @@
+40 Problem Roadmap (Progressively Structured)
+
+🧱 Basic Foundations (Days 1–5)
+
+    Swap two variables
+
+    Check if a number is prime
+
+    Find factorial using recursion
+
+    Count vowels in a string
+
+    Reverse a string manually
+
+    Find the second largest number in a list
+
+    Remove duplicates from a list
+
+    Merge two dictionaries
+
+    Check if a string is a palindrome
+
+    Find common elements between two lists
+
+🔁 Control & Collections (Days 6–10)
+
+    Count frequency of characters in a string
+
+    Find the longest word in a sentence
+
+    Sort a list of dictionaries by key
+
+    Implement a simple calculator (if/else)
+
+    Print a pattern using loops (e.g., pyramid)
+
+    Implement a custom split() function
+
+    Use list comprehension to flatten a nested list
+
+    Count the number of words in a file
+
+    Find missing number in a range
+
+    Find pairs in a list that sum to a target
+
+🔧 Functions, Files, Exceptions (Days 11–15)
+
+    Create a function that accepts variable args and kwargs
+
+    Write to and read from a text file
+
+    Catch and handle multiple exception types
+
+    Create a basic CLI program with input()
+
+    Use map(), filter(), reduce() on a list
+
+    Implement a custom enumerate() function
+
+    Write a function that returns a closure
+
+    Use a lambda in a sorted() call
+
+    Validate email format using regex
+
+    Make a basic logger that appends to a file
+
+🧰 OOP & Intermediate Concepts (Days 16–20)
+
+    Create a BankAccount class with deposit/withdraw methods
+
+    Implement a class with inheritance (e.g., Animal -> Dog)
+
+    Override __str__() and __repr__()
+
+    Implement a simple class-level counter using a class variable
+
+    Demonstrate encapsulation using private variables
+
+    Create a custom iterator class
+
+    Implement a generator function that yields Fibonacci numbers
+
+    Use a decorator to log function calls
+
+    Use property for getter/setter
+
+    Design a basic plugin system using dynamic imports
+
+
+💡 Tips for Practice
+
+Use Replit, Jupyter Notebook, or just .py files locally.
+
+Document your solution and what you learned in each.
+
+Try using type hints and Pythonic naming conventions.
+
