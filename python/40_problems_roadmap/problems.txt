@@ -38,11 +38,17 @@
 
     Use list comprehension to flatten a nested list
 
+    Collect even numbers recursively
+
     Count the number of words in a file
 
     Find missing number in a range
 
+    Find missing numbers in a range – advanced”
+
     Find pairs in a list that sum to a target
+
+    Find Unique Triplets That Sum to a Target
 
 🔧 Functions, Files, Exceptions (Days 11–15)
 

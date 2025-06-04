@@ -18,3 +18,12 @@
 | 12 |  Students and Examinations  |  [View](./leetcode_sql_50_problems/12.students_and_examinations.sql)  | 
 | 13 |  Managers with at least 5 direct reports  |  [View](./leetcode_sql_50_problems/13.managers_with_5_reports.sql)  | 
 | 14 |  Confirmation rate |  [View](./leetcode_sql_50_problems/14.confirmation_rate.sql)  | 
+| 15 |  Not boring movies |  [View](./leetcode_sql_50_problems/15.not_boring_movies.sql)  | 
+| 16 |  Average selling price |  [View](./leetcode_sql_50_problems/16.average_selling_price.sql)  | 
+| 17 |  Project Employees I |  [View](./leetcode_sql_50_problems/17.project_employees.sql)  | 
+| 18 |  Percentage of Users Attended a Contest |  [View](./leetcode_sql_50_problems/18.percentage_of_users.sql)  | 
+| 19 |  Queries quality and percentage |  [View](./leetcode_sql_50_problems/19.queries_quantity_percentage.sql)  | 
+| 20 |  Monthly Transactions I |  [View](./leetcode_sql_50_problems/20.monthly_transaction.sql)  | 
+| 21 |  Immediate Food Delivery II |  [View](./leetcode_sql_50_problems/21.immediate_food_delivery.sql)  | 
+| 22 |  Game Play Analysis IV |  [View](./leetcode_sql_50_problems/22.game_play_analysis.sql)  | 
+| 23 |  Find the player_ids who logged in again on the next day after their first login. |  [View](./leetcode_sql_50_problems/23.game_play_analysis_I.sql)  | 
