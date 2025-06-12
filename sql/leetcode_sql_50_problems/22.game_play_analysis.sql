@@ -73,28 +73,3 @@ Notes:
                 Both give you the first row per group, ordered by your chosen column(s).
 */
 
--- first solution
-select distinct on (a1.player_id) from activity a1 join activity a2 on a1.player_id = a2.player_id
-where a2.event_date = a1.event_date + INTERVAL '1 day';
-
-
--- second solution
-with first_two_logs as
-(
-    select *, row_number() over(partition by player_id order by event_date) rn from activity
-)
-select l1.player_id from first_two_logs l1 join first_two_logs l2
-on l1.player_id = l2.player_id 
-where l1.rn = 1 and l2.rn = 2
-and l2.event_date = l1.event_date + INTERVAL '1 day';
-
-
-WITH first_two_logs AS (
-  SELECT *, row_number() OVER (PARTITION BY player_id ORDER BY event_date) rn
-  FROM activity
-)
-SELECT l1.player_id
-FROM first_two_logs l1
-JOIN first_two_logs l2 ON l1.player_id = l2.player_id
-WHERE l1.rn = 1 AND l2.rn = 2
-AND DATEDIFF(l2.event_date, l1.event_date) = 1;
