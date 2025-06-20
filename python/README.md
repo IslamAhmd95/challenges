@@ -27,3 +27,7 @@
 | 21 | Find missing numbers in a range – advanced |   [View](./40_problems_roadmap/21.find_missing_numbers_advanced.py)   | 
 | 22 | Find pairs in a list that sum to a target |   [View](./40_problems_roadmap/22.find_pairs_with_sum.py)   | 
 | 23 | Find Unique Triplets That Sum to a Target |   [View](./40_problems_roadmap/23.find_triples_with_sum.py)   | 
+| 24 | Create a function that accepts variable args and kwargs |   [View](./40_problems_roadmap/24.variable_args_kwargs.py)   | 
+| 25 | Count email domains from urls |   [View](./40_problems_roadmap/25.count_email_domains_from_urls.py)   | 
+| 26 | Keyboard typing time |   [View](./40_problems_roadmap/26.keyboard_typing_time.py)   | 
+| 27 | Write to and read from a text file |   [View](./40_problems_roadmap/27.pythagorean_triplet_count.py)   | 

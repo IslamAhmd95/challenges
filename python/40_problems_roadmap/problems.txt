@@ -54,6 +54,12 @@
 
     Create a function that accepts variable args and kwargs
 
+    Count email domains from urls
+
+    Keyboard timing time
+
+    Pythagorean Triplet Finder
+
     Write to and read from a text file
 
     Catch and handle multiple exception types

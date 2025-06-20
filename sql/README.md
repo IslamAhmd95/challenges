@@ -28,3 +28,4 @@
 | 22 |  Game Play Analysis IV |  [View](./leetcode_sql_50_problems/22.game_play_analysis.sql)  | 
 | 23 |  Find the player_ids who logged in again on the next day after their first login. |  [View](./leetcode_sql_50_problems/23.game_play_analysis_I.sql)  | 
 | 24 |  Number of Unique Subjects Taught by Each Teacher |  [View](./leetcode_sql_50_problems/24.unique_subjects_per_teacher.sql)  | 
+| 25 |  Number of Unique Subjects Taught by Each Teacher |  [View](./leetcode_sql_50_problems/24.unique_subjects_per_teacher.sql)  | 
