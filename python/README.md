@@ -31,3 +31,9 @@
 | 25 | Count email domains from urls |   [View](./40_problems_roadmap/25.count_email_domains_from_urls.py)   | 
 | 26 | Keyboard typing time |   [View](./40_problems_roadmap/26.keyboard_typing_time.py)   | 
 | 27 | Write to and read from a text file |   [View](./40_problems_roadmap/27.pythagorean_triplet_count.py)   | 
+| 28 | Catch and handle multiple exception types |   [View](./40_problems_roadmap/28.multiple_exceptions_handler.py)   | 
+| 29 | Use map(), filter(), reduce() on a list to process scores |   [View](./40_problems_roadmap/29.process_scores.py)   | 
+| 30 | Implement a custom enumerate() function |   [View](./40_problems_roadmap/30.custom_enumerate.py)   | 
+| 31 | Build a Custom Range Generator |   [View](./40_problems_roadmap/31.custom_range_generator.py)   | 
+| 32 | Implement a generator function that yields Fibonacci numbers |   [View](./40_problems_roadmap/32.fibonacci_generator.py)   | 
+| 33 | Peek First Item Without Consuming Iterator |   [View](./40_problems_roadmap/33.peek_first_item.py)   | 

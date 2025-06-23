@@ -64,11 +64,15 @@
 
     Catch and handle multiple exception types
 
-    Create a basic CLI program with input()
-
-    Use map(), filter(), reduce() on a list
+    Use map(), filter(), reduce() on a list to process scores
 
     Implement a custom enumerate() function
+
+    Build a Custom Range Generator
+
+    Implement a generator function that yields Fibonacci numbers
+
+    Peek First Item Without Consuming Iterator
 
     Write a function that returns a closure
 
@@ -91,8 +95,6 @@
     Demonstrate encapsulation using private variables
 
     Create a custom iterator class
-
-    Implement a generator function that yields Fibonacci numbers
 
     Use a decorator to log function calls
 
