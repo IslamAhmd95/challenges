@@ -1,0 +1,4 @@
+__main__ - INFO - [2025-06-25 06:10:29] - User login successful
+__main__ - INFO - [2025-06-25 06:10:29] - User performed action X
+__main__ - INFO - [2025-06-25 14:14:59] - User login successful
+__main__ - INFO - [2025-06-25 14:14:59] - User performed action X

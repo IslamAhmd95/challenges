@@ -74,13 +74,13 @@
 
     Peek First Item Without Consuming Iterator
 
-    Write a function that returns a closure
-
-    Use a lambda in a sorted() call
-
-    Validate email format using regex
+    Sort Items by Custom Criteria Using lambda
 
     Make a basic logger that appends to a file
+
+    Rate Limiter using Closure
+
+    Count Character Occurrences While Preserving Order
 
 🧰 OOP & Intermediate Concepts (Days 16–20)
 

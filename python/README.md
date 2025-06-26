@@ -37,3 +37,7 @@
 | 31 | Build a Custom Range Generator |   [View](./40_problems_roadmap/31.custom_range_generator.py)   | 
 | 32 | Implement a generator function that yields Fibonacci numbers |   [View](./40_problems_roadmap/32.fibonacci_generator.py)   | 
 | 33 | Peek First Item Without Consuming Iterator |   [View](./40_problems_roadmap/33.peek_first_item.py)   | 
+| 34 | Sort Items by Custom Criteria Using lambda |   [View](./40_problems_roadmap/34.sort_with_lambda.py)   | 
+| 35 | Make a basic logger that appends to a file |   [View](./40_problems_roadmap/35.basic_logger.py)   | 
+| 36 | Rate Limiter using Closure |   [View](./40_problems_roadmap/36.rate_limiter_closure.py)   | 
+| 37 | Count Character Occurrences While Preserving Order |   [View](./40_problems_roadmap/36.rate_limiter_closure.py)   | 
