@@ -28,4 +28,9 @@
 | 22 |  Game Play Analysis IV |  [View](./leetcode_sql_50_problems/22.game_play_analysis.sql)  | 
 | 23 |  Find the player_ids who logged in again on the next day after their first login. |  [View](./leetcode_sql_50_problems/23.game_play_analysis_I.sql)  | 
 | 24 |  Number of Unique Subjects Taught by Each Teacher |  [View](./leetcode_sql_50_problems/24.unique_subjects_per_teacher.sql)  | 
-| 25 |  Number of Unique Subjects Taught by Each Teacher |  [View](./leetcode_sql_50_problems/24.unique_subjects_per_teacher.sql)  | 
+| 25 |  User Activity for the Past 30 Days I |  [View](./leetcode_sql_50_problems/25.daily_active_users_in_30_day_period.sql)  | 
+| 26 |  Product Sales Analysis III |  [View](./leetcode_sql_50_problems/26.first_year_sales_per_product.sql)  | 
+| 27 |  Classes With at Least 5 Students |  [View](./leetcode_sql_50_problems/27.classes_with_min_5_students.sql)  | 
+| 28 |  Find Followers Count |  [View](./leetcode_sql_50_problems/28.find_followers_count.sql)  | 
+| 29 |  Biggest single number |  [View](./leetcode_sql_50_problems/29.biggest_single_number.sql)  | 
+| 30 | Customers Who Bought All Products |  [View](./leetcode_sql_50_problems/30.customers_who_bought_all_products.sql)  | 
