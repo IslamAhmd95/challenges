@@ -34,3 +34,10 @@
 | 28 |  Find Followers Count |  [View](./leetcode_sql_50_problems/28.find_followers_count.sql)  | 
 | 29 |  Biggest single number |  [View](./leetcode_sql_50_problems/29.biggest_single_number.sql)  | 
 | 30 | Customers Who Bought All Products |  [View](./leetcode_sql_50_problems/30.customers_who_bought_all_products.sql)  | 
+| 31 | The Number of Employees Which Report to Each Employee |  [View](./leetcode_sql_50_problems/31.employees_reports_count.sql)  | 
+| 32 | Primary Department for Each Employee |  [View](./leetcode_sql_50_problems/32.primary_department_for_each_employee.sql)  | 
+| 33 | Triangle Judgement |  [View](./leetcode_sql_50_problems/33.triangle_judgement.sql)  | 
+| 34 | Consecutive Numbers |  [View](./leetcode_sql_50_problems/34.consecutive_numbers.sql)  | 
+| 35 | Product Price at a Given Date |  [View](./leetcode_sql_50_problems/35.product_price_at_given_date.sql)  | 
+| 36 | Last Person to Fit in the Bus |  [View](./leetcode_sql_50_problems/36.last_fit_person_in_bus.sql)  | 
+| 37 | Count Salary Categories |  [View](./leetcode_sql_50_problems/37.count_salaries_categories.sql)  | 
