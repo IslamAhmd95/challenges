@@ -41,3 +41,10 @@
 | 35 | Product Price at a Given Date |  [View](./leetcode_sql_50_problems/35.product_price_at_given_date.sql)  | 
 | 36 | Last Person to Fit in the Bus |  [View](./leetcode_sql_50_problems/36.last_fit_person_in_bus.sql)  | 
 | 37 | Count Salary Categories |  [View](./leetcode_sql_50_problems/37.count_salaries_categories.sql)  | 
+| 38 | Employees Whose Manager Left the Company |  [View](./leetcode_sql_50_problems/38.managers_left_company.sql)  | 
+| 39 | Exchange Seats |  [View](./leetcode_sql_50_problems/39.exchange_seats.sql)  | 
+| 40 | Movie Rating |  [View](./leetcode_sql_50_problems/40.movie_rating.sql)  | 
+| 41 | Restaurant Growth |  [View](./leetcode_sql_50_problems/41.restaurant_growth.sql)  | 
+| 42 | Friend Requests II: Who Has the Most Friends |  [View](./leetcode_sql_50_problems/42.user_with_most_friends.sql)  | 
+| 43 | Investments in 2016 |  [View](./leetcode_sql_50_problems/43.investments_in_2016.sql)  | 
+| 44 | Department Top Three Salaries |  [View](./leetcode_sql_50_problems/44.dept_top_3_salaries.sql)  | 
