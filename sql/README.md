@@ -54,3 +54,4 @@
 | 48 | Second Highest Salary |  [View](./leetcode_sql_50_problems/48.second_highest_salary.sql)  | 
 | 49 | Group Sold Products By The Date |  [View](./leetcode_sql_50_problems/49.group_sold_products_by_date.sql)  | 
 | 50 | List the Products Ordered in a Period |  [View](./leetcode_sql_50_problems/50.list_products_orderedBy_period.sql)  | 
+| 51 | Find Users With Valid E-Mails |  [View](./leetcode_sql_50_problems/51.users_with_valid_emails.sql)  | 
