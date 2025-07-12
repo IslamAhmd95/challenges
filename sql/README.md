@@ -48,3 +48,9 @@
 | 42 | Friend Requests II: Who Has the Most Friends |  [View](./leetcode_sql_50_problems/42.user_with_most_friends.sql)  | 
 | 43 | Investments in 2016 |  [View](./leetcode_sql_50_problems/43.investments_in_2016.sql)  | 
 | 44 | Department Top Three Salaries |  [View](./leetcode_sql_50_problems/44.dept_top_3_salaries.sql)  | 
+| 45 | Fix Names |  [View](./leetcode_sql_50_problems/45.fix_names.sql)  | 
+| 46 | Patients With a Condition |  [View](./leetcode_sql_50_problems/46.patients_with_conditions.sql)  | 
+| 47 | Delete Duplicate Emails |  [View](./leetcode_sql_50_problems/47.delete_duplicate_email.sql)  | 
+| 48 | Second Highest Salary |  [View](./leetcode_sql_50_problems/48.second_highest_salary.sql)  | 
+| 49 | Group Sold Products By The Date |  [View](./leetcode_sql_50_problems/49.group_sold_products_by_date.sql)  | 
+| 50 | List the Products Ordered in a Period |  [View](./leetcode_sql_50_problems/50.list_products_orderedBy_period.sql)  | 
