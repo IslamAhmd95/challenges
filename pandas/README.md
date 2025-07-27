@@ -13,4 +13,5 @@
 | 7 |  Fix Names in a Table |  [View](./leetcode_30_days_of_pandas/7.fix_names_in_table.py)  | 
 | 8 |  Find Users With Valid E-Mails|  [View](./leetcode_30_days_of_pandas/8.users_with_valid_emails.py)  | 
 | 9 |  Patients With a Condition |  [View](./leetcode_30_days_of_pandas/9.patients_with_condition.py)  | 
+| 10 | Count Occurrences in Text |  [View](./leetcode_30_days_of_pandas/10.count_occurrences_in_text.py)  | 
 
