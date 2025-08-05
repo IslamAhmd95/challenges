@@ -1,6 +1,6 @@
 40 Problem Roadmap (Progressively Structured)
 
-🧱 Basic Foundations (Days 1–5)
+🧱 Basic Foundations
 
     Swap two variables
 
@@ -22,7 +22,7 @@
 
     Find common elements between two lists
 
-🔁 Control & Collections (Days 6–10)
+🔁 Control & Collections
 
     Count frequency of characters in a string
 
@@ -50,7 +50,7 @@
 
     Find Unique Triplets That Sum to a Target
 
-🔧 Functions, Files, Exceptions (Days 11–15)
+🔧 Functions, Files, Exceptions
 
     Create a function that accepts variable args and kwargs
 
@@ -82,7 +82,43 @@
 
     Count Character Occurrences While Preserving Order
 
-🧰 OOP & Intermediate Concepts (Days 16–20)
+🧰  Advanced Concepts
+
+    parallel downloader
+
+    Concurrent Timer
+
+    Thread-Safe Counter
+
+    CPU-Bound Sum of Squares
+
+    Heavy Task Parallelizer
+
+    Concurrent Web Page Fetcher
+
+    Rate-limited API Caller
+
+    Custom Weekday Enum
+
+    Fibonacci Generator with Limit
+
+    Custom Range Iterable
+
+    Recursive Flatten List
+
+    Counter with Closure
+
+    Custom Decorator to Repeat and Log Function Calls
+
+    File Line Reverser with Context Manager
+
+    Running Average with Closure
+
+    Generator Pipeline
+
+    Group Words by First Letter
+
+🧰 OOP 
 
     Create a BankAccount class with deposit/withdraw methods
 
@@ -110,4 +146,3 @@ Use Replit, Jupyter Notebook, or just .py files locally.
 Document your solution and what you learned in each.
 
 Try using type hints and Pythonic naming conventions.
-

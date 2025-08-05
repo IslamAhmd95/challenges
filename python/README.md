@@ -40,4 +40,21 @@
 | 34 | Sort Items by Custom Criteria Using lambda |   [View](./40_problems_roadmap/34.sort_with_lambda.py)   | 
 | 35 | Make a basic logger that appends to a file |   [View](./40_problems_roadmap/35.basic_logger.py)   | 
 | 36 | Rate Limiter using Closure |   [View](./40_problems_roadmap/36.rate_limiter_closure.py)   | 
-| 37 | Count Character Occurrences While Preserving Order |   [View](./40_problems_roadmap/36.rate_limiter_closure.py)   | 
+| 37 | Count Character Occurrences While Preserving Order |   [View](./40_problems_roadmap/37.run_length_encoding.py)   | 
+| 38 | Parallel Downloader |   [View](./40_problems_roadmap/38.parallel_downloader.py)   | 
+| 39 | Concurrent Timer |   [View](./40_problems_roadmap/39.concurrent_timer.py)   | 
+| 40 | Thread-safe Counter |   [View](./40_problems_roadmap/40.thread_safe_counter.py)   | 
+| 41 | Sum Of Squares |   [View](./40_problems_roadmap/41.sum_of_squares.py)   | 
+| 42 | Heavy Task Parallelizer |   [View](./40_problems_roadmap/42.heavy_task_parallelizer.py)   | 
+| 43 | Concurrent Web Page Fetcher |   [View](./40_problems_roadmap/43.concurrent_web_page_fetcher.py)   | 
+| 44 | Rate-limited Api Caller |   [View](./40_problems_roadmap/44.rate-limited_api_caller.py)   | 
+| 45 | Custom Weekday Enum |   [View](./40_problems_roadmap/45.custom_weekday_enum.py)   | 
+| 46 | Fibonacci Generator with Limit |   [View](./40_problems_roadmap/46.fibonacci_generator_with_limit.py)   | 
+| 47 | Custom Range Iterable |   [View](./40_problems_roadmap/47.custom_range_iterable.py)   | 
+| 48 | Recursive Flatten List |   [View](./40_problems_roadmap/48.recursive_flatten_list.py)   | 
+| 49 | Counter with Closure |   [View](./40_problems_roadmap/49.counter_with_closure.py)   | 
+| 50 | Custom Decorator to Repeat and Log Function Calls |   [View](./40_problems_roadmap/50.custom_decorator_to_repeat_and_log_function_calls.py)   | 
+| 51 | File Line Reverser with Context Manager |   [View](./40_problems_roadmap/51.file_line_reverse.py)   | 
+| 52 | Running Average with Closure |   [View](./40_problems_roadmap/52.running_avg_with_closure.py)   | 
+| 53 | Generator Pipline |   [View](./40_problems_roadmap/53.generator_pipline.py)   | 
+| 54 | Group Words by First Letter |   [View](./40_problems_roadmap/54.group_words_by_first_letter.py)   | 
