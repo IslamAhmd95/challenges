@@ -13,7 +13,7 @@ def valid_emails(users: pd.DataFrame) -> pd.DataFrame:
 Notes:
     ^[a-zA-Z]             # starts with a letter
     [a-zA-Z0-9_.-]*       # followed by letters, digits, underscore, dot, or dash (0 or more)
-    @leetcode\.com        # must end with @leetcode.com
+    @leetcode\.com$        # must end with @leetcode.com
     \.                    # A dot . in regex means “any character”, so we escape it with \. to mean a literal dot (.)
     .                     # Match any single character except newline (\n) , a.b = avb or a9b or a!b or a%b ,  ... means any 3 characters like abc, 123, -+@, x.y, etc.
     $                     # no extra characters after .com

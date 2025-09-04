@@ -4,7 +4,7 @@
 
 
 import pandas as pd
-import numpy as np
+import numpy as np   # pyright: ignore[reportMissingImports]
 
 def calculate_special_bonus(employees: pd.DataFrame) -> pd.DataFrame:
     condition = (~employees['name'].str.startswith('M')) & (employees['employee_id'] % 2 != 0)

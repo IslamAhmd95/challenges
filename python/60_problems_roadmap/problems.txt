@@ -1,4 +1,4 @@
-40 Problem Roadmap (Progressively Structured)
+60 Problem Roadmap (Progressively Structured)
 
 🧱 Basic Foundations
 
@@ -120,23 +120,9 @@
 
 🧰 OOP 
 
-    Create a BankAccount class with deposit/withdraw methods
+    Banking System
 
-    Implement a class with inheritance (e.g., Animal -> Dog)
-
-    Override __str__() and __repr__()
-
-    Implement a simple class-level counter using a class variable
-
-    Demonstrate encapsulation using private variables
-
-    Create a custom iterator class
-
-    Use a decorator to log function calls
-
-    Use property for getter/setter
-
-    Design a basic plugin system using dynamic imports
+    Library System
 
 
 💡 Tips for Practice

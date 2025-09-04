@@ -1,5 +1,6 @@
 -- Problem: Replace Employee ID With The Unique Identifier
 -- Link: https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50
+-- my rate: easy
 
 -- PostgreSQL
 select E.name, EU.unique_id from employees E left join EmployeeUNI EU on E.id = EU.id;

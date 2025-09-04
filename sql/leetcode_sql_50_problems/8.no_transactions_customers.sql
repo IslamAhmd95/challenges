@@ -2,10 +2,10 @@
 -- Link: https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50
 
 -- PostgreSQL
-select customer_id, count(*) count_no_trans from visits V left join transactions T on V.visit_id = T.visit_id where transaction_id is null groub by customer_id;
+select customer_id, count(*) count_no_trans from visits V left join transactions T on V.visit_id = T.visit_id where transaction_id is null group by customer_id;
 
 -- MySQL
-select customer_id, count(*) count_no_trans from visits V left join transactions T on V.visit_id = T.visit_id where transaction_id is null groub by customer_id;
+select customer_id, count(*) count_no_trans from visits V left join transactions T on V.visit_id = T.visit_id where transaction_id is null group by customer_id;
 
 
 /*

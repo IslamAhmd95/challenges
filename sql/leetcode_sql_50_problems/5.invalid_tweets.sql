@@ -1,5 +1,6 @@
 -- Problem: Invalid Tweets
 -- Link: https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50
+-- my rate: easy
 
 -- PostgreSQL
 select tweet_id from tweets where char_length(content) > 15;

@@ -1,0 +1,112 @@
+
+Project Idea
+    Library Management System (OOP-based)
+
+Description:
+    A Python OOP application to manage books, members, and borrowing/returning operations for a small library.
+    It will use core OOP concepts heavily, and sprinkle in advanced ones where they make sense.
+
+Concepts You’ll Apply
+    I’ll group them into Core and Advanced so you can see how you’ll revise while coding.
+
+Core OOP Concepts
+
+    Classes & Objects
+
+        Book, Member, Library, BorrowRecord classes.
+
+        Each represents a real-world entity.
+
+    Encapsulation
+
+        Private attributes for sensitive data like _member_id, _available_copies.
+
+        Public getters/setters where needed.
+
+    Inheritance
+
+        EBook and PrintedBook can inherit from Book.
+
+        StudentMember and StaffMember inherit from Member.
+
+    Polymorphism
+
+        Overriding methods, e.g., display_info() could be different for EBook vs. PrintedBook.
+
+        calculate_due_date() may differ for students vs. staff.
+
+    Abstraction (via ABCs)
+
+        Abstract base class Book with abstract method display_info().
+
+        Abstract class Member with abstract method calculate_due_date().
+
+
+Advanced Concepts
+
+    Dunder Methods
+
+        __str__ for nice printing of objects.
+
+        __eq__ for comparing books by ISBN.
+
+        __len__ to get number of books in the library.
+
+    Class Attributes & Class Methods
+
+        MIN_ALLOWED_DAYS or MAX_BORROWED_BOOKS shared across all members.
+
+        Class methods to create objects from data (e.g., Book.from_dict()).
+
+    Property Decorator
+
+        @property for calculated values like is_available.
+
+        Setter for updating available copies.
+
+    Descriptors (Optional but good revision)
+
+        Could create a descriptor UpperCaseName for ensuring member names are always uppercase.
+
+    Composition
+
+        Library has Book and Member collections as attributes.
+
+        BorrowRecord contains both Member and Book objects.
+
+    Static Methods
+
+        Validation helpers for ISBN or email format.
+
+    Resource Management (__enter__, __exit__)
+
+        Simulate saving data to a file or loading on startup.
+
+
+Example of How You’ll Apply While Revising
+
+    book.py
+
+        Book (abstract), EBook, PrintedBook
+
+        Use inheritance, polymorphism, and dunder methods.
+
+    member.py
+
+        Member (abstract), StudentMember, StaffMember
+
+        Use class attributes, polymorphism for borrowing limits.
+
+    library.py
+
+        Library class that manages adding/removing books, registering members, borrowing, returning.
+
+        Composition: Library contains collections of Book and Member objects.
+
+    borrow.py
+
+        BorrowRecord class to track borrowed books, due dates.
+
+    descriptors.py (optional)
+
+        UpperCaseName descriptor for member names.
