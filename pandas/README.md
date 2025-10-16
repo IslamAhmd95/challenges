@@ -1,4 +1,4 @@
-## SQL Challenges
+## Pandas Challenges
 
 
 ### Warming Up
